@@ -1,0 +1,20 @@
+
+QPushButton {
+    font-family: 'Quicksand', 'times new roman';
+    color: beige;
+    font-size: 25px;
+}
+
+QTextEdit{
+    font-family: 'Quicksand', Helvetica, sans-serif;
+    color:beige;
+    font-size: 15px;
+}
+QWidget{
+    background-color: rgba(5, 187, 237, 0.173);
+}
+
+
+QComboBox{
+    color: white;
+}
